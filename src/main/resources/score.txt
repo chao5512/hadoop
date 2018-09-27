@@ -1,0 +1,13 @@
+1   zhangsan    60
+2   lisi    100
+2   wangwu  61
+1   xiaoming    62
+3   huahua  60
+2   quxiao  65
+1   xiaoer  70
+3   wangsicong  100
+1   xingxing    64
+2   zhaomin 63
+3   zhangwuji   59
+3   guojing 60
+1   yangkang    100
